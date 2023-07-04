@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230704-0301-Experimental"
+	Name="ubuntu"
+	Generator="ctest-3.10.2"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="7.5.0"
+	OSName="Linux"
+	Hostname="ubuntu"
+	OSRelease="5.4.0-150-generic"
+	OSVersion="#167~18.04.1-Ubuntu SMP Wed May 24 00:51:42 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1897"
+	TotalPhysicalMemory="3901"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3194"
+	>
+	<Testing>
+		<StartDateTime>Jul 04 07:09 PDT</StartDateTime>
+		<StartTestTime>1688479753</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 04 07:09 PDT</EndDateTime>
+		<EndTestTime>1688479753</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
